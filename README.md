@@ -14,6 +14,8 @@ https://twitter.com/bendhalpern/status/1091535397543464960
 
 1) deeply nesting functions on a backend service as shown in the gif above.
 
+![screen shot 2019-03-03 at 11 13 02 am](https://user-images.githubusercontent.com/11463275/53698021-5d8e0f00-3da5-11e9-8620-a2c349537e7b.png)
+
 2) nesting an entire css library into an scss class ... to override styling of material UI;
 <br/>Instead of using withStyles as suggested by the documentation.
 
